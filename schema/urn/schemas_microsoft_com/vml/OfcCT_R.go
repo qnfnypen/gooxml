@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type OfcCT_R struct {

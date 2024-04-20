@@ -12,7 +12,7 @@ package math
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type CT_FuncPr struct {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type OfcDiagram struct {

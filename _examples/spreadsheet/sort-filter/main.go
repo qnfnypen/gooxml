@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"baliance.com/gooxml/spreadsheet"
+	"github.com/qnfnypen/gooxml/spreadsheet"
 )
 
 func main() {

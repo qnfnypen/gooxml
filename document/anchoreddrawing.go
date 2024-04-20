@@ -8,11 +8,11 @@
 package document
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	pic "baliance.com/gooxml/schema/soo/dml/picture"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/measurement"
+	pic "github.com/qnfnypen/gooxml/schema/soo/dml/picture"
+	"github.com/qnfnypen/gooxml/schema/soo/wml"
 )
 
 // AnchoredDrawing is an absolutely positioned image within a document page.

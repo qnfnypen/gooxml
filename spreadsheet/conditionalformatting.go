@@ -7,7 +7,7 @@
 
 package spreadsheet
 
-import "baliance.com/gooxml/schema/soo/sml"
+import "github.com/qnfnypen/gooxml/schema/soo/sml"
 
 // ConditionalFormatting controls the formatting styles and rules for a range of
 // cells with the same conditional formatting.

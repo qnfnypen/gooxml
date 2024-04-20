@@ -12,7 +12,7 @@ package format
 import (
 	"io"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 //line lexer.go:20

@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	sd "baliance.com/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/measurement"
+	sd "github.com/qnfnypen/gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 // CellMarker represents a cell position

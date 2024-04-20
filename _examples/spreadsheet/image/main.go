@@ -5,9 +5,9 @@ import (
 	"log"
 	"math"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/spreadsheet"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/spreadsheet"
 )
 
 func main() {

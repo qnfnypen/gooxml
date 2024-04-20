@@ -12,7 +12,7 @@ package sml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type Connections struct {

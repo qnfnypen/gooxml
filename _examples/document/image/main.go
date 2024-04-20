@@ -4,11 +4,11 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/document"
+	"github.com/qnfnypen/gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/qnfnypen/gooxml/schema/soo/wml"
 )
 
 var lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis, lectus dictum feugiat tempus, sem neque finibus enim, sed eleifend sem nunc ac diam. Vestibulum tempus sagittis elementum`

@@ -13,8 +13,8 @@ import (
 	"io"
 	"io/ioutil"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/zippkg"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/zippkg"
 )
 
 // Read reads a document from an io.Reader.

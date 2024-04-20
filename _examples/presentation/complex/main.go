@@ -4,12 +4,12 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"github.com/qnfnypen/gooxml/schema/soo/dml"
 
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/presentation"
+	"github.com/qnfnypen/gooxml/color"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/presentation"
 )
 
 const lorem = "Lorem ipsum dolor sit amet."

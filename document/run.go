@@ -12,13 +12,13 @@ import (
 	"errors"
 	"math/rand"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
-	pic "baliance.com/gooxml/schema/soo/dml/picture"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/schema/soo/dml"
+	pic "github.com/qnfnypen/gooxml/schema/soo/dml/picture"
+	"github.com/qnfnypen/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/qnfnypen/gooxml/schema/soo/wml"
 )
 
 // Run is a run of text within a paragraph that shares the same formatting.

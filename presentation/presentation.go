@@ -20,14 +20,14 @@ import (
 	"os"
 	"path"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
-	"baliance.com/gooxml/schema/soo/pml"
-	"baliance.com/gooxml/zippkg"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/common"
+	"github.com/qnfnypen/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/schema/soo/dml"
+	"github.com/qnfnypen/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/qnfnypen/gooxml/schema/soo/pkg/relationships"
+	"github.com/qnfnypen/gooxml/schema/soo/pml"
+	"github.com/qnfnypen/gooxml/zippkg"
 )
 
 // Presentation is the a presentation base document.

@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"baliance.com/gooxml/document"
+	"github.com/qnfnypen/gooxml/document"
 )
 
 func main() {

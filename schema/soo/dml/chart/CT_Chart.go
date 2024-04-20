@@ -12,7 +12,7 @@ package chart
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type CT_Chart struct {

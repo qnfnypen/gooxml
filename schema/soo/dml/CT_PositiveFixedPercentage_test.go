@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"github.com/qnfnypen/gooxml/schema/soo/dml"
 )
 
 func TestCT_PositiveFixedPercentageConstructor(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type CT_PCDSCPage struct {

@@ -12,7 +12,7 @@ package vml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type OfcEquationxml struct {

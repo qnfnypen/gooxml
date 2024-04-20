@@ -11,8 +11,8 @@ import (
 	"encoding/xml"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/pkg/metadata/core_properties"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/schema/soo/pkg/metadata/core_properties"
 )
 
 // CoreProperties contains document specific properties.

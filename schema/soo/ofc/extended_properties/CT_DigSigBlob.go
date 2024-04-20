@@ -12,7 +12,7 @@ package extended_properties
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type CT_DigSigBlob struct {

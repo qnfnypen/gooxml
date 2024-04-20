@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Vector struct {

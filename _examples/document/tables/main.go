@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"log"
 
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/measurement"
+	"github.com/qnfnypen/gooxml/color"
+	"github.com/qnfnypen/gooxml/document"
+	"github.com/qnfnypen/gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"github.com/qnfnypen/gooxml/schema/soo/wml"
 )
 
 func main() {

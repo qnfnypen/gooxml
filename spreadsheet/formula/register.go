@@ -11,7 +11,7 @@ import (
 	"sort"
 	"sync"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 // SupportedFunctions returns a list of supported functions.

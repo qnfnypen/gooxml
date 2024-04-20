@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type WdCT_WordprocessingShapeChoice1 struct {

@@ -14,9 +14,9 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/sml"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"github.com/qnfnypen/gooxml/schema/soo/sml"
+	"github.com/qnfnypen/gooxml/testhelper"
+	"github.com/qnfnypen/gooxml/zippkg"
 )
 
 func TestWorksheetUnmarshal(t *testing.T) {

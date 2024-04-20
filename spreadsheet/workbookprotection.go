@@ -8,8 +8,8 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/sml"
+	"github.com/qnfnypen/gooxml"
+	"github.com/qnfnypen/gooxml/schema/soo/sml"
 )
 
 type WorkbookProtection struct {

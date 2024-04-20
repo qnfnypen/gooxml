@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
+	"github.com/qnfnypen/gooxml"
 )
 
 type CT_DateTime struct {
